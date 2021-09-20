@@ -3,8 +3,8 @@ var MODEL = (function () {
     var _myVar = "Model";
     var _homePageInfo = `<h1>HOME</h1>
     <div class="images">
-    <img src="/images/igloo.jpeg" alt="Igloo">
-    <img src="/images/snow-trees.jpeg" alt="Snowy Trees">
+    <img src="./images/igloo.jpeg" alt="Igloo">
+    <img src="./images/snow-trees.jpeg" alt="Snowy Trees">
     </div>
     <div class="paragraphs">
     <p>
@@ -19,8 +19,8 @@ var MODEL = (function () {
     </div>`;
     var _aboutPageInfo = `<h1>ABOUT</h1>
     <div class="images">
-    <img src="/images/lightning.jpeg" alt="Igloo">
-    <img src="/images/sky.jpeg" alt="Igloo">
+    <img src="./images/lightning.jpeg" alt="Lightning">
+    <img src="./images/sky.jpeg" alt="Sky">
     </div>
     <div class="paragraphs">
     <p>
@@ -32,8 +32,8 @@ var MODEL = (function () {
     </div>`;
     var _productsPageInfo = `<h1>PRODUCTS</h1>
     <div class="images">
-    <img src="/images/avocado.jpeg" alt="Igloo">
-    <img src="/images/toast.jpeg" alt="Igloo">
+    <img src="./images/avocado.jpeg" alt="Avocado Toast">
+    <img src="./images/toast.jpeg" alt="Toast">
     </div>
     <div class="paragraphs">
     <p>
@@ -45,8 +45,8 @@ var MODEL = (function () {
     </div>`
     var _contactPageInfo = `<h1>CONTACT US</h1>
     <div class="images">
-    <img src="/images/contact.jpeg" alt="Igloo">
-    <img src="/images/work.jpeg" alt="Igloo">
+    <img src="./images/contact.jpeg" alt="Contact">
+    <img src="./images/work.jpeg" alt="Work">
     </div>
     <div class="paragraphs">
     <p>
